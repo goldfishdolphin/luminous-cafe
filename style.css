@@ -1,0 +1,67 @@
+body{
+  background-color: #f5ebe0;
+  padding: 10px;
+}
+/* Styles for intro section */
+.intro {
+  background-color: #f5ebe0;
+  text-align: center;
+  padding: 10px;
+}
+
+.intro h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.intro p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+.intro a {
+  display: inline-block;
+  background-color: #FD8026;
+  color: #FFF;
+  padding: 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.intro a:hover {
+  background-color: #E76B00;
+}
+
+/* Styles for menu section */
+.menu {
+  text-align: center;
+  padding: 50px;
+  background-color: #d5bdaf;
+}
+
+.menu h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu li {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.menu a {
+  display: inline-block;
+  background-color: #FD8026;
+  color: #FFF;
+  padding: 20px;
+  border-radius: 5px;
+  text-decoration: none;
+ 
+}
